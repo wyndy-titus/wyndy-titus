@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wyndy-titus
 - 👀 I’m interested in web development! and	human-computer interaction! and <span>&#8238;reverse engineering</span>!
-- 🌱 I’m currently learning CSS &#128512; and git/GitHub &#128534;
+- 🌱 I’m currently learning &#8811; C++, CSS &#128291; and git/GitHub &#128534;
 - 📫 How to reach me:<br><br> 
 \-----BEGIN PGP PUBLIC KEY BLOCK-----<br>
 Comment: User-ID:	Wyndy Titus <w****1@gmail.com>  
